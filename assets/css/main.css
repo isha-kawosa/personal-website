@@ -25,6 +25,17 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+header.major p.intro {
+	font-family: Arial, sans-serif !important;
+	font-size: 16px !important;
+	line-height: 1.6 !important;
+	color: #333 !important;
+	background-color: #f9f9f9 !important;
+	padding: 15px !important;
+	border-radius: 5px !important;
+}
+
+	
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
